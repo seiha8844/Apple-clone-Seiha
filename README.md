@@ -1,16 +1,25 @@
-# React + Vite
+# Apple Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+- A frontend developer clone of the Apple website, built to replicate their sleek design, responsive grids, and signature fluid animations. 
 
-Currently, two official plugins are available:
+- Work in Progress: This project is currently under active development. Some pages, sections, and interactive features are still being built!
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Live Demo
+(Once you deploy to Vercel, paste your link here!)
+- [View Live Site](https://apple-clone-seiha.vercel.app/)
 
-## React Compiler
+## Tech Stack
+- Frontend Framework: React.js (Change this if you are using Vite!)
+- Styling: Tailwind CSS (Great for replicating Apple's precise layouts)
+- Animations:Framer Motion (Or CSS Transitions)
+- Deployment: Vercel
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Features Built So Far
 
-## Expanding the Oxlint configuration
+## Here is what is currently live and functional:
+- Responsive Navigation Bar: Sleek blur effect (color filter).
+- Hero Sections: High-fidelity replication of current product showcases (e.g., iPhone, Macbook).
+- Responsive Grid: Seamless transitions from desktop layouts to mobile-friendly stacks.
+- (Feel free to add any specific sections you've finished, like the footer, interactive buttons, or a basic image carousel!)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## This project was created for learning and practicing, not meaning to use. 
