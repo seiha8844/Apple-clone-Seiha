@@ -335,7 +335,7 @@ export default function Home() {
             More ways to shop: <span className="text-[#0071e3] underline cursor-pointer">Find an Apple Store</span> or <span className="text-[#0071e3] underline cursor-pointer">other retailer</span> near you. Or call 1-800-MY-APPLE.
           </div>
 
-          {/* Copyright, Region, & Terms Bar */}
+          {/* Copyright, Region, & term bar */}
           <div className="pt-5 text-[#86868b] flex flex-col md:flex-row justify-between items-start md:items-center gap-3">
             <div>
               Copyright © 2026 Apple Inc. All rights reserved.

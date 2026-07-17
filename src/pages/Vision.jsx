@@ -12,7 +12,7 @@ export default function Vision() {
         </div>
       </section>
 
-      {/* Layout Content blocks */}
+      {/* Layout Content blocks code  */}
       <section className="max-w-4xl mx-auto px-6 py-16 space-y-16">
         <div className="bg-zinc-900 p-8 rounded-2xl">
           <h3 className="text-2xl font-semibold mb-2">Blend digital content with physical space.</h3>
